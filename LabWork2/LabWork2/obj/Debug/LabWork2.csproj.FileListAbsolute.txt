@@ -1,0 +1,8 @@
+D:\visual studio projects\LabWork2\LabWork2\bin\Debug\LabWork2.exe.config
+D:\visual studio projects\LabWork2\LabWork2\bin\Debug\LabWork2.exe
+D:\visual studio projects\LabWork2\LabWork2\bin\Debug\LabWork2.pdb
+D:\visual studio projects\LabWork2\LabWork2\obj\Debug\LabWork2.csproj.AssemblyReference.cache
+D:\visual studio projects\LabWork2\LabWork2\obj\Debug\LabWork2.csproj.SuggestedBindingRedirects.cache
+D:\visual studio projects\LabWork2\LabWork2\obj\Debug\LabWork2.csproj.CoreCompileInputs.cache
+D:\visual studio projects\LabWork2\LabWork2\obj\Debug\LabWork2.exe
+D:\visual studio projects\LabWork2\LabWork2\obj\Debug\LabWork2.pdb
